@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>JC Mercado (Zenbakiak)</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2015 00:12:16 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2015 00:12:16 -0600</lastBuildDate>
+    <link>http://zenbakiak.github.io/</link>
+    <atom:link href="http://zenbakiak.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Nov 2015 00:17:38 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2015 00:17:38 -0600</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 05 Nov 2015 00:11:28 -0600</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
+        <link>http://zenbakiak.github.io/jekyll/update/2015/11/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://zenbakiak.github.io/jekyll/update/2015/11/05/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
